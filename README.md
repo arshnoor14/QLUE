@@ -27,3 +27,18 @@ The backend operates on a state machine architecture defined in `agent.py`. The 
 Ensure the following dependencies are installed in your environment:
 * Python 3.9+
 * Required Python packages as specified in the dependencies list.
+
+
+<img width="1906" height="874" alt="image" src="https://github.com/user-attachments/assets/2b5a49bf-2835-43b5-97a2-559230cd86f0" />
+<img width="1905" height="871" alt="image" src="https://github.com/user-attachments/assets/62062430-5e9d-42f8-8ff4-15ce699f2675" />
+<img width="1914" height="748" alt="image" src="https://github.com/user-attachments/assets/524e34cd-1590-455f-9638-e4f09b5c5e63" />
+<img width="1919" height="653" alt="image" src="https://github.com/user-attachments/assets/47680526-efad-4c46-b581-51b832612346" />
+<img width="1919" height="877" alt="image" src="https://github.com/user-attachments/assets/5f4f22bc-0641-4e78-9e9e-232376079fcc" />
+<img width="1919" height="761" alt="image" src="https://github.com/user-attachments/assets/dd8de1e7-5440-4aae-8627-a0958fe840be" />
+<img width="1919" height="814" alt="image" src="https://github.com/user-attachments/assets/6a401976-6e73-4fd0-9dd9-c52c1a7b8ad4" />
+<img width="1913" height="766" alt="image" src="https://github.com/user-attachments/assets/8386981e-21b0-4a08-bd2a-212a1cb30f3c" />
+
+
+<img width="1905" height="868" alt="image" src="https://github.com/user-attachments/assets/a24c9a3c-dfc3-4c46-9720-0d5f39ca5523" />
+<img width="1919" height="787" alt="image" src="https://github.com/user-attachments/assets/e7082ed6-578c-4860-b41a-210a1051a899" />
+
