@@ -27,10 +27,3 @@ The backend operates on a state machine architecture defined in `agent.py`. The 
 Ensure the following dependencies are installed in your environment:
 * Python 3.9+
 * Required Python packages as specified in the dependencies list.
-
-## Installation & Deployment
-
-1. **Clone the Repository:**
-   ```bash
-   git clone [https://github.com/your-organization/qlue.git](https://github.com/your-organization/qlue.git)
-   cd qlue
