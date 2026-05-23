@@ -1,0 +1,18 @@
+# Indian Income Tax Regulatory Filing Guidelines (FY 2025-26)
+
+## 1. ITR-1 (Sahaj) Eligibility Rules
+- Applicability: For resident individuals only.
+- Income Threshold: Total gross income must not exceed INR 50,00,000 (50 Lakhs) within the financial year.
+- Income Sources Permitted: Income must originate strictly from Salary/Pension, exactly One House Property, or Other Sources such as bank interest/dividends.
+- Exclusions: Cannot be filed if there is any income from Business or Profession, Capital Gains, or foreign assets.
+
+## 2. ITR-4 (Sugam) Presumptive Taxation Rules
+- Applicability: For resident individuals, HUFs, and partnership firms (excluding LLPs).
+- Professional Income Threshold (Section 44ADA): Total gross professional receipts must not exceed INR 50,00,000 (50 Lakhs). Applicable to technical consultants, software developers, graphic designers, and freelance operators.
+- Business Turnover Threshold (Section 44AD): Total gross business turnover must not exceed INR 2,00,00,000 (2 Crores).
+- Presumptive Profit Computation: Professionals must declare a minimum of 50% of gross receipts as taxable net profit. General businesses must declare a minimum of 6% (for digital transactions) or 8% (for cash transactions) of gross turnover as net profit. Detailed account books or bills are not required to be maintained under this scheme.
+
+## 3. ITR-3 General Corporate Business Rules
+- Applicability: For individuals and HUFs having income from a proprietary business or carrying out a registered commercial profession.
+- Threshold Conditions: Mandatorily required if gross professional receipts exceed INR 50,00,000 or general business turnover exceeds INR 2 Crores, or if the individual maintains regular books of accounts and wishes to claim actual audited itemized expenses rather than presumptive flat rates.
+- Mandatory Flags: Required if there are any Capital Gains asset liquidations or Foreign Income sources.

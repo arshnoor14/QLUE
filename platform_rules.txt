@@ -1,0 +1,27 @@
+# DataFluent Platform Rules and Business Guidelines
+
+## 1. Commission Rates
+- The DataFluent platform charges a flat 10% commission fee on all standard freelance transactions.
+- Barter transactions (where students and providers swap services directly with no monetary exchange) are charged a 0% commission.
+- Top Rated Providers receive a discounted platform commission fee of 7.5% (instead of 10%).
+
+## 2. Refund and Cancellation Policy
+- If a student cancels a gig transaction before delivery, they are eligible for a 100% refund.
+- Refunds are credited to the student's digital platform wallet.
+- Refund processing takes between 24 and 72 hours (1 to 3 business days).
+- Completed transactions cannot be refunded directly through the automated system; they must go through the dispute resolution team.
+
+## 3. Provider Tiers & Ratings
+- Providers are rated by students on a scale of 1.0 to 5.0 stars after each transaction.
+- "Top Rated Provider" status is automatically awarded to providers who maintain an average rating of 4.8 stars or higher, have completed at least 10 transactions, and have a completion rate above 90%.
+- "Rising Star" status is awarded to new providers (joined in the last 90 days) who have completed at least 3 transactions with a 5.0-star rating.
+
+## 4. Gig Rules & Pricing Limits
+- Standard gig listings must be priced between a minimum of $5.00 and a maximum of $2,000.00.
+- Any custom gig package priced above $2,000.00 is flagged as a high-tier transaction and requires manual approval by a platform administrator.
+- Providers can create a maximum of 5 active gig listings simultaneously.
+
+## 5. Dispute Resolution
+- In the event of a service dispute, either the student or the provider can submit a dispute claim within 7 calendar days of the scheduled delivery date.
+- Dispute claims must be backed by communication logs and draft files.
+- The platform moderation team resolves all disputes within 5 business days, and their decision is final.
